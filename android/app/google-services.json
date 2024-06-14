@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138932951122",
+    "project_id": "urgentrishtapp",
+    "storage_bucket": "urgentrishtapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138932951122:android:2dd3b3b7d943987dcce78b",
+        "android_client_info": {
+          "package_name": "com.example.urgentrishtapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtIk0WJjU_Xu90D8gYS2z6KQ1W2VjF6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
